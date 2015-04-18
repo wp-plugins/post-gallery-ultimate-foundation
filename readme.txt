@@ -15,9 +15,9 @@ Extend the Post Gallery Ultimate plugin to use the Foundation Framework instead 
 
 Extend the Post Gallery Ultimate plugin to use the Foundation Framework instead of the default styles.
 
-You must install the Post Gallery Ultimate plugin(https://wordpress.org/plugins/post-gallery-ultimate/) for this plugin to work.
+You must install the [Post Gallery Ultimate plugin](https://wordpress.org/plugins/post-gallery-ultimate/) for this plugin to work.
 
-###What you get when you use the Post Gallery Ultimat Foundation
+###What you get when you use the Post Gallery Ultimate Foundation
 
 *  Foundation Framework essentials css and js loaded.
 *  Post Gallery Ultimate template that uses Foundation Framework to display the post gallery
@@ -51,7 +51,7 @@ No.  The post gallery ultimate foundation does the programming and design.
 
 == Screenshots ==
 
-[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/post-gallery-ultimate-foundation/)
+[See screenshots at thinklandingpages.com](http://www.thinklandingpages.com/post-gallery-ultimate-foundation/)
 
 
 == Changelog ==
